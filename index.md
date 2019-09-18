@@ -25,35 +25,18 @@ title:
 
 # Office Hours
 
-| Hour/ Day | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
-| :-------: | :--------: | :---------: | :-----------: | :----------: | :--------: |
-|   08:40   |            |             |               |              |            |
-|   08:40   |            |             |               |              |            |
-|   08:40   |            |             |               |              |            |
-|   09:40   |            |             |               |              |            |
-|   10:40   |            |             |               |              |            |
-|   11:40   |            |             |               |              |            |
-|   12:40   |            |             |               |              |            |
-|   13:40   |            |             |               |              |            |
-|   14:40   |            |             |               |              |            |
-|   15:40   |            |             |               |              |            |
-|   16:40   |            |             |               |              |            |
-|   17:40   |            |             |               |              |            |
-|   18:40   |            |             |               |              |            |
-
-
-<!-- ---
-layout: page
-permalink: /
----
-
-| Lab |        Date         |                             Lab Activity                              |   TA    |
-| --- | :-----------------: | :-------------------------------------------------------------------: | :-----: |
-| 0.1 | 2.10.2019 3.10.2019 |                   Socket & Thread Programming in C#                   |  Kerem  |
-| 0.2 |                     |                   Socket & Thread Programming in C#                   |  Kerem  |
-| 1.1 |                     |                   Socket & Thread Programming in C#                   |  Kerem  |
-| 1.2 |                     |         Socket & Thread In-lab Practice (to be graded in lab)         |  Kerem  |
-| 2   |                     | Packet Capture & Analysis Using Wireshark (to be graded via homework) |  Yusuf  |
-| 3   |                     |       DNS Server, HTTP Server, Web Server (to be graded in lab)       |  Kerem  |
-| 4   |                     |                 IP subnetting (to be graded via quiz)                 | Mustafa |
- -->
+| Hour/ Day |     **Monday**      |        **Tuesday**        |  **Wednesday**  |  **Thursday**   |     **Friday**      |
+| :-------: | :-----------------: | :-----------------------: | :-------------: | :-------------: | :-----------------: |
+|   08:40   | Lecture (FASS G062) |                           |                 |                 |                     |
+|   08:40   | Lecture (FASS G062) |                           |                 |                 |                     |
+|   08:40   |                     |                           |                 |                 |                     |
+|   09:40   |                     |                           |                 |                 |                     |
+|   10:40   |                     |                           |                 |                 |                     |
+|   11:40   |                     |                           |                 |                 |                     |
+|   12:40   |                     | Oğuz Özsaygın (FENS L067) |                 |                 |                     |
+|   13:40   |                     | Oğuz Özsaygın (FENS L067) |                 |                 |                     |
+|   14:40   |                     |                           |                 |                 | Lecture (FASS G062) |
+|   15:40   |                     |                           |                 |                 |                     |
+|   16:40   |                     |                           |                 | Lab (Section B  |                     |
+|   17:40   |                     |                           | Lab (Section A) | Lab (Section B) |                     |
+|   18:40   |                     |                           | Lab (Section A) |                 |                     |

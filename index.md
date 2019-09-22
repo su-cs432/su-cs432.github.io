@@ -4,6 +4,11 @@ permalink: /
 title: 
 ---
 
+# Annoucements
+- Office hours will start in the week of Oct. 7
+
+# Lab Schedule
+
 | Lab          |  Group  |         Date          |                                     Lab Activity                                     |   TA    |
 | ------------ | :-----: | :-------------------: | :----------------------------------------------------------------------------------: | :-----: |
 | Lab 0.1      | A \\  B | 02.10.2019 03.10.2019 |                         Intro. to Programming in C# (Part 1)                         |  Kerem  |

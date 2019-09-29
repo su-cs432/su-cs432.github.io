@@ -30,18 +30,20 @@ title: ""
 
 # Office Hours
 
-| Hour/ Day |     **Monday**      |        **Tuesday**        |  **Wednesday**  |  **Thursday**   |     **Friday**      |
-| :-------: | :-----------------: | :-----------------------: | :-------------: | :-------------: | :-----------------: |
-|   08:40   | Lecture (FASS G062) |                           |                 |                 |                     |
-|   08:40   | Lecture (FASS G062) |                           |                 |                 |                     |
-|   08:40   |                     |                           |                 |                 |                     |
-|   09:40   |                     |                           |                 |                 |                     |
-|   10:40   |                     |                           |                 |                 |                     |
-|   11:40   |                     |                           |                 |                 |                     |
-|   12:40   |                     | Oğuz Özsaygın (FENS L067) |                 |                 |                     |
-|   13:40   |                     | Oğuz Özsaygın (FENS L067) |                 |                 |                     |
-|   14:40   |                     |                           |                 |                 | Lecture (FASS G062) |
-|   15:40   |                     |                           |                 |                 |                     |
-|   16:40   |                     |                           |                 | Lab (Section B) |                     |
-|   17:40   |                     |                           | Lab (Section A) | Lab (Section B) |                     |
-|   18:40   |                     |                           | Lab (Section A) |                 |                     |
+Office Hours will be held in FENS L068 unless stated elsewhere below
+
+| Hour/ Day |     **Monday**      |  **Tuesday**  |  **Wednesday**  |  **Thursday**   |     **Friday**      |
+| :-------: | :-----------------: | :-----------: | :-------------: | :-------------: | :-----------------: |
+|   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
+|   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
+|   08:40   |                     |               |                 |                 |                     |
+|   09:40   |                     |               |                 |                 |                     |
+|   10:40   |                     |               |                 |  Oğuz Özsaygın  |                     |
+|   11:40   |                     |               |                 |  Oğuz Özsaygın  |                     |
+|   12:40   |                     |               |                 |                 | Yusuf Arslan Polat  |
+|   13:40   |                     |               |                 |    Kerem Örs    | Yusuf Arslan Polat  |
+|   14:40   |                     | Mustafa Aydin |                 |    Kerem Örs    | Lecture (FASS G062) |
+|   15:40   |                     | Mustafa Aydin |                 |                 |                     |
+|   16:40   |                     |               |                 | Lab (Section B) |                     |
+|   17:40   |                     |               | Lab (Section A) | Lab (Section B) |                     |
+|   18:40   |                     |               | Lab (Section A) |                 |                     |

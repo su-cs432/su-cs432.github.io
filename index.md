@@ -6,6 +6,7 @@ title: ""
 
 # Annoucements
 - Office hours will start in the week of Oct. 7
+- Demo sessions for Project Step 1 will take place on Nov 12 and Nov 14. [Registration sheet link](https://docs.google.com/spreadsheets/d/1-saktrzuXbFk0TqdgZ74X9BubORP_1Yb7gY4blaj7QY/edit?usp=sharing)
 
 # Lab Schedule
 
@@ -35,11 +36,9 @@ Office Hours will be held in FENS L068 unless stated elsewhere below
 | Hour/ Day |     **Monday**      |  **Tuesday**  |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: | :-------------: | :-------------: | :-----------------: |
 |   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
-|   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
-|   08:40   |                     |               |                 |                 |                     |
-|   09:40   |                     |               |                 |                 |                     |
-|   10:40   |                     |               |                 |  Oğuz Özsaygın  |                     |
-|   11:40   |                     |               |                 |  Oğuz Özsaygın  |                     |
+|   09:40   |  Lecture (FASS G062)                   |               |                 |                 |                     |
+|   10:40   |                     |               |                 |  Oğuz Özsaygın (UC 1089A)  |                     |
+|   11:40   |                     |               |                 |  Oğuz Özsaygın (UC 1089A)  |                     |
 |   12:40   |                     |               |                 |                 | Yusuf Arslan Polat  |
 |   13:40   |                     |               |                 |    Kerem Örs    | Yusuf Arslan Polat  |
 |   14:40   |                     | Mustafa Aydin |                 |    Kerem Örs    | Lecture (FASS G062) |

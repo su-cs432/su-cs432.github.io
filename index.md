@@ -8,6 +8,7 @@ title: ""
 - Office hours will start in the week of Oct. 7
 - Demo sessions for Project Step 1 will take place on Nov 12 and Nov 14. [Registration sheet link](https://docs.google.com/spreadsheets/d/1-saktrzuXbFk0TqdgZ74X9BubORP_1Yb7gY4blaj7QY/edit?usp=sharing)
 - Demo sessions for Project Step 2 will take place on Dec 3 and Dec 5 at FENS 2014. [Registration sheet link](https://docs.google.com/spreadsheets/d/1w1OLfxZojMotH7ovVHG1tdQkoAie_4uffXre0Yg5dzU/edit?usp=sharing)
+- Demo sessions for Project Step 3 will take place on Dec 19 and Dec 20 at FENS 2014. [Registration sheet link](https://docs.google.com/spreadsheets/d/1HA_DRUaqRdLc4Ayui9AoSZwASyRqzAhQHRQGIpY7eZg/edit?usp=sharing)
 # Lab Schedule
 
 | Lab          |  Group  |         Date          |                                     Lab Activity                                     |   TA    |

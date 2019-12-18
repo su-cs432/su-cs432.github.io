@@ -38,8 +38,8 @@ Office Hours will be held in FENS L068 unless stated elsewhere below
 | :-------: | :-----------------: | :-----------: | :-------------: | :-------------: | :-----------------: |
 |   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
 |   09:40   |  Lecture (FASS G062)                   |               |                 |                 |                     |
-|   10:40   |                     |               |                 |  Oğuz Özsaygın   |                     |
-|   11:40   |                     |               |                 |  Oğuz Özsaygın   |                     |
+|   10:40   |                     |               |                 |  Oğuz Özsaygın (FENS 2014)   |                     |
+|   11:40   |                     |               |                 |  Oğuz Özsaygın (FENS 2014)   |                     |
 |   12:40   |                     |               |                 |                 | Yusuf Arslan Polat  |
 |   13:40   |                     |               |                 |    Kerem Örs (FENS 2014)   | Yusuf Arslan Polat  |
 |   14:40   |                     | Mustafa Aydin (FENS 2014) |                 |    Kerem Örs (FENS 2014)    | Lecture (FASS G062) |

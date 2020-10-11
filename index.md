@@ -5,45 +5,43 @@ title: ""
 ---
 
 # Annoucements
-- Office hours will start in the week of Oct. 7
-- Demo sessions for Project Step 1 will take place on Nov 12 and Nov 14. [Registration sheet link](https://docs.google.com/spreadsheets/d/1-saktrzuXbFk0TqdgZ74X9BubORP_1Yb7gY4blaj7QY/edit?usp=sharing)
-- Demo sessions for Project Step 2 will take place on Dec 3 and Dec 5 at FENS 2014. [Registration sheet link](https://docs.google.com/spreadsheets/d/1w1OLfxZojMotH7ovVHG1tdQkoAie_4uffXre0Yg5dzU/edit?usp=sharing)
-- Demo sessions for Project Step 3 will take place on Dec 19 and Dec 20 at FENS 2014. [Registration sheet link](https://docs.google.com/spreadsheets/d/1HA_DRUaqRdLc4Ayui9AoSZwASyRqzAhQHRQGIpY7eZg/edit?usp=sharing)
+- Office hours will start in the week of Oct. 19
+
+
 # Lab Schedule
 
 | Lab          |  Group  |         Date          |                                     Lab Activity                                     |   TA    |
 | ------------ | :-----: | :-------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0.1      | A \\  B | 02.10.2019 03.10.2019 |                         Intro. to Programming in C# (Part 1)                         |  Kerem  |
-| Lab 0.2      | A \\  B | 09.10.2019 10.10.2019 |                        Intro. to Programming in C#  (Part 2)                         |  Kerem  |
-| Lab 1.1      | A \\  B | 16.10.2019 17.10.2019 |                          Socket & Thread Programming in C#                           |  Kerem  |
-| Lab 1.2      | A \\  B | 23.10.2019 24.10.2019 |                Socket & Thread In-lab Practice (to be graded in lab)                 |  Kerem  |
-| Lab 2        | A \\  B | 30.10.2019 31.10.2019 |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Yusuf  |
-| Recitation 1 | A \\  B | 13.11.2019 14.11.2019 |             Recitation questions will be solved for Midterm (lab hours)              | Mustafa |
-| Lab 3        | A \\  B | 27.11.2019 28.11.2019 |              DNS Server, HTTP Server, Web Server (to be graded in lab)               |  Kerem  |
-| Lab 4        | A \\  B | 11.12.2019 12.12.2019 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
+| Lab 0        | A \\  B | 21.10.2020 22.10.2020 |                             Intro. to Programming in C#                              |  Kerem  |
+| Lab 1.1      | A \\  B |  4.11.2020  5.11.2020 |                          Socket & Thread Programming in C#                           |  Kerem  |
+| Lab 1.2      | A \\  B | 11.11.2020 12.11.2020 |                Socket & Thread In-lab Practice (to be graded in lab)                 |  Kerem, Yusa  |
+| Lab 2        | A \\  B | 18.11.2020 19.11.2020 |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa  |
+| Recitation 1 | A \\  B |  2.12.2020  3.12.2020 |             Recitation questions will be solved for Midterm (lab hours)              | Albert Levi |
+| Lab 3        | A \\  B | 23.12.2020 24.12.2020 |              DNS Server, HTTP Server, Web Server (to be graded in lab)               |  Kerem  |
+| Lab 4        | A \\  B | 30.12.2020 31.12.2020 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
 
 
 # TA Information
 
 - F. Kerem Örs, *fkerem@sabanciuniv.edu*
 - Mustafa Aydın,  *mustafaaydin@sabanciuniv.edu*
-- Oğuz Özsaygın, *oguzozsaygin@sabanciuniv.edu*  
-- Yusuf A. Polat, *yusufarslan@sabanciuniv.edu*  
+- M. Yusa Erguven, *merguven@sabanciuniv.edu*  
+- Amir Sepahi, *amirsepahi@sabanciuniv.edu*  
 
 # Office Hours
 
-Office Hours will be held in FENS L068 unless stated elsewhere below
+Office Hours will be held via Whereby and the links for each assistant are in the table below. 
 
-| Hour/ Day |     **Monday**      |  **Tuesday**  |  **Wednesday**  |  **Thursday**   |     **Friday**      |
-| :-------: | :-----------------: | :-----------: | :-------------: | :-------------: | :-----------------: |
-|   08:40   | Lecture (FASS G062) |               |                 |                 |                     |
-|   09:40   |  Lecture (FASS G062)                   |               |                 |                 |                     |
-|   10:40   |                     |               |                 |  Oğuz Özsaygın (FENS 2014)   |                     |
-|   11:40   |                     |               |                 |  Oğuz Özsaygın (FENS 2014)   |                     |
-|   12:40   |                     |               |                 |                 | Yusuf Arslan Polat  |
-|   13:40   |                     |               |                 |    Kerem Örs (FENS 2014)   | Yusuf Arslan Polat  |
-|   14:40   |                     | Mustafa Aydin (FENS 2014) |                 |    Kerem Örs (FENS 2014)    | Lecture (FASS G062) |
-|   15:40   |                     | Mustafa Aydin (FENS 2014) |                 |                 |                     |
-|   16:40   |                     |               |                 | Lab (Section B) |                     |
-|   17:40   |                     |               | Lab (Section A) | Lab (Section B) |                     |
-|   18:40   |                     |               | Lab (Section A) |                 |                     |
+| Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
+| :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
+|   08:40   | 				 	  |    Lecture    										 |                 |                 |                     |
+|   09:40   | 		Lecture 	  |    Lecture    										 |                 |                 |                     |
+|   10:40   |                     |               										 |                 |  			     |                     |
+|   11:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/) ||
+|   12:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/) ||
+|   13:40   |                     |               										 |                 | Lab (Section B) |                     |
+|   14:40   |                     | 			  										 |                 | Lab (Section B) | F Kerem Ors [link](http://whereby.com/fkerem) |
+|   15:40   |                     |  			  										 |                 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |
+|   16:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
+|   17:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
+|   18:40   |                     |               										 |                 |                 |                     |

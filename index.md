@@ -18,7 +18,7 @@ title: ""
 | Lab 2        | A \\  B | 18.11.2020 19.11.2020 |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa  |
 | Recitation 1 | A \\  B |  2.12.2020  3.12.2020 |             Recitation questions will be solved for Midterm (lab hours)              | Albert Levi |
 | Lab 3        | A \\  B | 23.12.2020 24.12.2020 |              DNS Server, HTTP Server, Web Server (to be graded in lab)               |  Kerem  |
-| Lab 4        | A \\  B | 30.12.2020 31.12.2020 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
+| Lab 4        | A \\  B |  6.01.2021  7.01.2021 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
 
 
 # TA Information

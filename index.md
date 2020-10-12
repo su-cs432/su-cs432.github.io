@@ -37,8 +37,8 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   08:40   | 				 	  |    Lecture    										 |                 |                 |                     |
 |   09:40   | 		Lecture 	  |    Lecture    										 |                 |                 |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/) ||
-|   12:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/) ||
+|   11:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
+|   12:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
 |   13:40   |                     |               										 |                 | Lab (Section B) |                     |
 |   14:40   |                     | 			  										 |                 | Lab (Section B) | F Kerem Ors [link](http://whereby.com/fkerem) |
 |   15:40   |                     |  			  										 |                 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |

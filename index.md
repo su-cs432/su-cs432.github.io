@@ -34,15 +34,15 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
-|   08:40   | 				 	  |    Lecture    										 |                 |                 | M Yusa Erguven [link](https://whereby.com/merguven) |
-|   09:40   | 		Lecture 	  |    Lecture    										 |                 |                 | M Yusa Erguven [link](https://whereby.com/merguven) |
+|   08:40   | 				 	  |    Lecture    										 |                 |                 | M Yusa Erguven (Extra) [link](https://whereby.com/merguven) |
+|   09:40   | 		Lecture 	  |    Lecture    										 |                 |                 | M Yusa Erguven (Extra) [link](https://whereby.com/merguven) |
 |   10:40   |                     |               										 |                 |  			     |                     |
 |   11:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
 |   12:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) | Lab (Section A) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
-|   13:40   |                     |               										 | Mustafa Aydın [link](https://whereby.com/mustafaaydin) | Lab (Section B) |                     |
-|   14:40   |                     | 			  										 | Mustafa Aydın [link](https://whereby.com/mustafaaydin) | Lab (Section B) | F Kerem Ors [link](http://whereby.com/fkerem) |
+|   13:40   |                     |               										 | Mustafa Aydın (Extra) [link](https://whereby.com/mustafaaydin) | Lab (Section B) |                     |
+|   14:40   |                     | 			  										 | Mustafa Aydın (Extra) [link](https://whereby.com/mustafaaydin) | Lab (Section B) | F Kerem Ors [link](http://whereby.com/fkerem) |
 |   15:40   |                     |  			  										 |                 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |
 |   16:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
 |   17:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
-|   18:40   |                     |               										 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
-|   19:40   |                     |                                                      |                 | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
+|   18:40   |                     |               										 |                 | F Kerem Ors (Extra) [link](http://whereby.com/fkerem) |                     |
+|   19:40   |                     |                                                      |                 | F Kerem Ors (Extra) [link](http://whereby.com/fkerem) |                     |

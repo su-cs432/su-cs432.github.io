@@ -37,12 +37,15 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   08:40   | 				 	  |    Lecture    										 |                 |                 |                     |
 |   09:40   | 		Lecture 	  |    Lecture    										 |                 |                 |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   |                     |   | Lab (Section A) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
-|   12:40   |                     |   | Lab (Section A) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
-|   13:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) |                 | Lab (Section B) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) |                     |
-|   14:40   |                     |  M Yusa Erguven [link](https://whereby.com/merguven) |                 | Lab (Section B) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | F Kerem Ors [link](http://whereby.com/fkerem) |
-|   15:40   |                     |  			  										 |                 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |
-|   16:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
-|   17:40   |                     |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
-|   18:40   |                     |               										 |                 |                 |                     |
+|   11:40   |                     | Mustafa Aydın (Extra*) [link](https://whereby.com/mustafaaydin) | Lab (Section A) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
+|   12:40   |                     | Mustafa Aydın (Extra*) [link](https://whereby.com/mustafaaydin) | Lab (Section A) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | Mustafa Aydın [link](https://whereby.com/mustafaaydin) ||
+|   13:40   |                     | M Yusa Erguven [link](https://whereby.com/merguven) |                 | Lab (Section B) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) |                     |
+|   14:40   |                     | M Yusa Erguven [link](https://whereby.com/merguven) |                 | Lab (Section B) [Zoom link](https://sabanciuniv.zoom.us/j/8690028508) | F Kerem Ors [link](http://whereby.com/fkerem) |
+|   15:40   |                     | M Yusa Erguven (Extra*) [link](https://whereby.com/merguven) |                 |                 | F Kerem Ors [link](http://whereby.com/fkerem) |
+|   16:40   |                     | M Yusa Erguven (Extra*) [link](https://whereby.com/merguven) |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
+|   17:40   | F Kerem Ors (Extra*) [link](http://whereby.com/fkerem) |               										 |                 | Amir Sepahi [link](https://whereby.com/cs408-projects) ||
+|   18:40   | F Kerem Ors (Extra*) [link](http://whereby.com/fkerem) |               										 |                 |                 |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
+
+
+\* Extra office hours are just for the week of 4.1.2021, not permanent. 

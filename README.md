@@ -1,11 +1,11 @@
-# Sabanci University CS 408 TA & Lab Website
+# Sabanci University CS 432/532 TA & Lab Website
 
 This website is used to inform students about lab sessions.
 
 # Installation
 ```
 gem install jeykll bundler
-cd su-cs480.github.io
+cd su-cs432.github.io
 bundle install
 ```
 

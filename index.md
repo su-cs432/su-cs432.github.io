@@ -24,9 +24,7 @@ title: ""
 # TA Information
 
 - F. Kerem Örs, *fkerem@sabanciuniv.edu*
-- Mustafa Aydın,  *mustafaaydin@sabanciuniv.edu*
-- M. Yusa Erguven, *merguven@sabanciuniv.edu*  
-- Amir Sepahi, *amirsepahi@sabanciuniv.edu*  
+- M. Yusa Erguven, *merguven@sabanciuniv.edu*    
 
 # Office Hours
 
@@ -47,5 +45,3 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   18:40   | F Kerem Ors (Extra*) [link](http://whereby.com/fkerem) |               										 |                 |                 |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
 
-
-\* Extra office hours are just for the week of 4.1.2021, not permanent. 

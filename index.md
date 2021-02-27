@@ -29,7 +29,7 @@ title: ""
 
 # Office Hours
 
-Office Hours will be held via Whereby and the links for each assistant are in the table below. 
+Office Hours will be held via Whereby and the links for each assistant will be in the table below. 
 
 
 

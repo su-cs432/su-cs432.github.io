@@ -5,7 +5,8 @@ title: ""
 ---
 
 # Annoucements
-- 
+- Office hours will start in 3rd week.
+
 
 
 # Lab Schedule

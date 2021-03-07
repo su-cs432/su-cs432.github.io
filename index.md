@@ -13,7 +13,7 @@ title: ""
 
 | Lab          |         Week of        |                                     Lab Activity                                     |      TA      |
 | ------------ | :-------------------:  | :----------------------------------------------------------------------------------: | :----------: |
-| Lab 0        |        8.03.2021       |                         Lab: C# socket and thread overview                           |     Kerem    |
+| Lab 0        |        8.03.2021       |                         Lab: C# socket and thread overview                           |     Kerem  [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
 | Lab 1.1      |       15.03.2021       |                             Lab: C# crypto library intro                             |     Kerem    |
 | Lab 1.2      |       22.03.2021       |         Lab: Crypto task (to be graded in lab - to be extended if needed)            |  Kerem, Yusa |
 | Lab 2.1      |       29.03.2021       |                                   Lab:CTFWorkshop1                                   |     Yusa     |
@@ -41,12 +41,12 @@ Office Hours will be held via Whereby and the links for each assistant will be i
 | :-------: | :-----------------: |    :-----------:    |   :-------------:   |   :-------------:   | :-----------------: |
 |   08:40   |                     |                     |       Lecture       |                     |                     |
 |   09:40   |                     |                     |       Lecture       |                     |                     |
-|   10:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |
-|   11:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |
+|   10:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/j/8690028508)  |
+|   11:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/j/8690028508)  |
 |   12:40   |                     |                     |                     |                     |                     |
 |   13:40   |                     |                     |                     |                     |                     |
-|   14:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |                     |                     |                     |                     |
-|   15:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |                     |                     |                     |                     |
+|   14:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/j/8690028508)  |                     |                     |                     |                     |
+|   15:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/j/8690028508)  |                     |                     |                     |                     |
 |   16:40   |                     |       Lecture       |                     |                     |                     |
 |   17:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
 |   18:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |

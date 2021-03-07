@@ -41,14 +41,14 @@ Office Hours will be held via Whereby and the links for each assistant will be i
 | :-------: | :-----------------: |    :-----------:    |   :-------------:   |   :-------------:   | :-----------------: |
 |   08:40   |                     |                     |       Lecture       |                     |                     |
 |   09:40   |                     |                     |       Lecture       |                     |                     |
-|   10:40   |                     |                     |                     |                     |  Lab (Section A1)   |
-|   11:40   |                     |                     |                     |                     |  Lab (Section A1)   |
+|   10:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |
+|   11:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |
 |   12:40   |                     |                     |                     |                     |                     |
 |   13:40   |                     |                     |                     |                     |                     |
-|   14:40   |  Lab (Section A2)   |                     |                     |                     |                     |
-|   15:40   |  Lab (Section A2)   |                     |                     |                     |                     |
+|   14:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |                     |                     |                     |                     |
+|   15:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/u/abIFenJ9u)  |                     |                     |                     |                     |
 |   16:40   |                     |       Lecture       |                     |                     |                     |
-|   17:40   |                     |                     |                     |                     |                     |
-|   18:40   |                     |                     |                     |                     |                     |
+|   17:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
+|   18:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
 |   19:40   |                     |                     |                     |                     |                     |
  

@@ -13,7 +13,7 @@ title: ""
 
 | Lab          |         Week of        |                                     Lab Activity                                     |      TA      |
 | ------------ | :-------------------:  | :----------------------------------------------------------------------------------: | :----------: |
-| Lab 0        |        8.03.2021       |                         Lab: C# socket and thread overview                           |     Kerem  [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
+| Lab 0        |        8.03.2021       |                         Lab: C# socket and thread overview                           |     Kerem    |
 | Lab 1.1      |       15.03.2021       |                             Lab: C# crypto library intro                             |     Kerem    |
 | Lab 1.2      |       22.03.2021       |         Lab: Crypto task (to be graded in lab - to be extended if needed)            |  Kerem, Yusa |
 | Lab 2.1      |       29.03.2021       |                                   Lab:CTFWorkshop1                                   |     Yusa     |

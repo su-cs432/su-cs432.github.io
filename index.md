@@ -11,44 +11,45 @@ title: ""
 
 # Lab Schedule
 
-| Lab          |         Week of        |                                     Lab Activity                                     |      TA      |
-| ------------ | :-------------------:  | :----------------------------------------------------------------------------------: | :----------: |
-| Lab 0        |        8.03.2021       |                         Lab: C# socket and thread overview                           |     Kerem    |
-| Lab 1.1      |       15.03.2021       |                             Lab: C# crypto library intro                             |     Kerem    |
-| Lab 1.2      |       22.03.2021       |         Lab: Crypto task (to be graded in lab - to be extended if needed)            |  Kerem, Yusa |
-| Lab 2.1      |       29.03.2021       |                                   Lab:CTFWorkshop1                                   |     Yusa     |
-| Lab 2.2      |        5.04.2021       |                                   Lab:CTFWorkshop2                                   |     Yusa     |
-| Lab 2.3      |       12.04.2021       |                                   Lab:CTFWorkshop3                                   |     Yusa     |
-| Lab 3        |       17.05.2021       |           Lab: SSL task (to be graded in lab - to be extended if needed)             |  Yusa, Kerem |
-| Lab 4        |       24.05.2021       |                                   Lab: Snort-IDS                                     |     Yusa     |
+| Lab          |         Week of        |                                     Lab Activity                                     |      TA      |  Links          |
+| ------------ | :-------------------:  | :----------------------------------------------------------------------------------: | :----------: |   :----------:  |
+| Lab 0        |        21.03.2022       |                         Lab: C# socket and thread overview                           |     Simge    |     [link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)            |
+| Lab 1.1      |       28.03.2022       |                             Lab: C# crypto library intro                             |     Simge    |    [link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)             |
+| Lab 1.2      |       04.04.2022       |           Lab: Crypto task. Hybrid. (to be graded in lab)                             |  Simge, Barış|    [link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)             |
+| Lab 2.1      |       11.04.2022       |                                   Lab:CTFWorkshop1                                   |     Sacit    |     [link](https://sabanciuniv.zoom.us/my/sacitemreakca)            |
+| Lab 2.2      |       18.04.2022       |                                   Lab:CTFWorkshop2                                   |     Sacit    |     [link](https://sabanciuniv.zoom.us/my/sacitemreakca)            |
+| Lab 2.3      |       16.05.2022       |                                   Lab:CTF Solutions                                  |     Sacit    |     [link](https://sabanciuniv.zoom.us/my/sacitemreakca)            |
+| Lab 3        |       23.05.2022       |           Lab: SSL task (to be graded in lab)                                        |  Barış, Simge, Sacit  | Physical           |
+| Lab 4        |       06.06.2022       |                                   Lab: Snort-IDS                                     |     Barış     |      [link](https://sabanciuniv.zoom.us/j/4737568063?pwd=MnViTEp4NzFtVlJMRnFiUUtvWWNsUT09)           |
+
 
 
 # TA Information
 
-- F. Kerem Örs, *fkerem@sabanciuniv.edu*
-- M. Yusa Erguven, *merguven@sabanciuniv.edu*    
+- Sacit Emre Akça, *sacitakca@sabanciuniv.edu*
+- Simge Demir, *simgedemir@sabanciuniv.edu*    
+- Barış Pakyürek, *bpakyurek@sabanciuniv.edu*
+
 
 # Office Hours
 
-Office Hours will be held via Whereby and the links for each assistant will be in the table below. 
-
-
+Office Hours will be held via Zoom and the links for each assistant will be in the table below. 
 
 
 
 
 | Hour/ Day |     **Monday**      |     **Tuesday**     |    **Wednesday**    |    **Thursday**     |     **Friday**      |
 | :-------: | :-----------------: |    :-----------:    |   :-------------:   |   :-------------:   | :-----------------: |
-|   08:40   |                     |                     |       Lecture       |                     |                     |
-|   09:40   |                     |                     |       Lecture       |                     |                     |
-|   10:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/j/6988554191)  |
-|   11:40   |                     |                     |                     |                     |  Lab (Section A1) [link](https://sabanciuniv.zoom.us/j/6988554191)  |
-|   12:40   |                     |                     |                     |                     |                     |
-|   13:40   |                     |                     |                     |                     |                     |
-|   14:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/j/6988554191)  |                     |                     |                     |                     |
-|   15:40   |  Lab (Section A2) [link](https://sabanciuniv.zoom.us/j/6988554191)  |                     |                     |                     |                     |
-|   16:40   |                     |       Lecture       |                     |                     |                     |
-|   17:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
-|   18:40   |                     |                     | M Yusa Erguven [link](https://whereby.com/merguven) | F Kerem Ors [link](http://whereby.com/fkerem) |                     |
+|   08:40   |                     |                     |                     |        Lecture      |                     |
+|   09:40   |                     |                     |                     |        Lecture      |                     |
+|   10:40   |                     |                     |                     |                     |                     |
+|   11:40   |                     |                     |                     |                     |                     |
+|   12:40   | Office Hour (Barış) [link](https://sabanciuniv.zoom.us/j/4737568063?pwd=MnViTEp4NzFtVlJMRnFiUUtvWWNsUT09) |                     |                     |          Office Hour (Sacit) [link](https://sabanciuniv.zoom.us/my/sacitemreakca)          |                     |
+|   13:40   | Office Hour (Barış) [link](https://sabanciuniv.zoom.us/j/4737568063?pwd=MnViTEp4NzFtVlJMRnFiUUtvWWNsUT09) |                     |                     |       Office Hour (Sacit) [link](https://sabanciuniv.zoom.us/my/sacitemreakca)              |                     |
+|   14:40   |                     |                     |                     |                     |                     |
+|   15:40   |       Lecture       |                     |                     |                     |                     |
+|   16:40   |                     |    Office Hour (Simge) [link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)                |                     |                     |                     |
+|   17:40   |                     |                     |       Lab           |                     |                     |
+|   18:40   |                     |                     |       Lab           |                     |                     |
 |   19:40   |                     |                     |                     |                     |                     |
  
